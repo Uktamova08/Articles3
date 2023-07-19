@@ -18,7 +18,7 @@ body{
 }
 .container{
     width: 100%;
-    man-width: 1200px;
+    max-width: 1200px;
     padding-left: 50px;
     padding-right: 50px;
     margin-left: auto;
